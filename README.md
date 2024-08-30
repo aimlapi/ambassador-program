@@ -65,7 +65,7 @@ Join the AI/ML API Community Program today and help us build a future where AI e
 
 Let's push the boundaries of what's possible with AI\!
 
-*For any questions, contact us at: [AI/ML API Team](mailto:hello@aimlapi.com)*
+*For all Community questions, please contact: *[Communinty AI/ML API Team](mailto:community@aimlapi.com)*
 
 ## AI/ML API Speaker Program
 
@@ -114,7 +114,7 @@ If you're a seasoned expert, thought leader, or industry innovator with a passio
 * **Recognition**: Be featured on our website and receive official speaker credentials  
 * **Travel Support**: Receive assistance with travel arrangements for approved events  
 * **💰Monetary Compensation**:💰   
-  1\) Dedicated speech, conference: Up to 5000$.   
+  1\) Dedicated speech, conference: Up to 2500$.   
   2\) AI/ML API meetup: Up to 1000$.   
   3\) Dedicated webinar: Up to 400$.  
 * **Free access** to AI API up to 100M tokens/month. (could be extended)
@@ -134,7 +134,7 @@ If you're a seasoned expert, thought leader, or industry innovator with a passio
 3. **Onboarding**: Successful applicants will receive comprehensive training on our API and speaking best practices
 
 Join us in shaping the future of AI. Apply now and let your voice inspire the next wave of AI innovation\!
-For questions, please contact: *[AI/ML API Team](mailto:hello@aimlapi.com)*
+For all Speaker Program questions, please contact: *[AI/ML API Team](mailto:speakers@aimlapi.com)*
 *Empowering Innovators, One API at a Time*
 
 ---
@@ -183,14 +183,14 @@ We're seeking creative minds who produce high-quality, informative, or entertain
 
 #### Base Tier
 
-* 15% commission on all sales generated through your unique promo code for 6 months.  
+* 10% commission on all sales generated through your unique promo code for 6 months.  
 * Free access to our AI/ML API (up to 60M tokens/month. (could be extended) ).  
 * Official "AI/ML API Content Creator" badge for your profiles.
 
 #### Advanced Tier (Unlocked after 3 months of consistent, high-quality content)
 
 * All Base Tier benefits, plus:  
-* Increased commission to 30% for 12 months.  
+* Increased commission to 15% for 12 months.  
 * Monetary bonuses for high-performing content (based on views, engagement, and conversions).  
 * Opportunity to be featured on our official blog and social media channels.  
 * Early access to new API features and beta testing opportunities.
@@ -211,7 +211,7 @@ We're seeking creative minds who produce high-quality, informative, or entertain
 4. **Onboarding**: Accepted creators will receive comprehensive resources, including API documentation, brand guidelines, and best practices.
 
 Become a part of our Content Creator Program and help us democratize access to cutting-edge AI technology. Your creativity and expertise can inspire the next generation of AI innovators\!
-For any questions, please contact: *[AI/ML API Team](mailto:hello@aimlapi.com)*
+For any Content Creator Program questions, please contact: *[AI/ML API Team](mailto:creators@aimlapi.com)*
 *With AI/ML API, let's build a smarter tomorrow.*
 
 ---
@@ -256,11 +256,11 @@ Lead or participate in hackathons, creating innovative projects that showcase th
 
 * Participate in AI/ML-themed hackathons  
 * Use our AI/ML API as the primary AI solution in your projects  
-* Share your experience on social media (2 posts per hackathon on two platforms)
+* Share your experience on social media and Github repositories (2 posts per hackathon on two platforms)
 
 ### 💰Rewards:💰
 
-* Up to $200 in tokens for every hackathon participation  
+* Up to $50 in tokens for every hackathon participation  
 * Cash prizes for podium finishes up to:  
   * 1st Place: $600  
   * 2nd Place: $400  
@@ -280,7 +280,7 @@ Guide and support fellow developers in our Discord community, sharing your exper
 
 ### 💰Rewards:💰
 
-* Monthly stipend of $1000  
+* Monthly stipend of $600  
 * Free access to AI API up to 100M tokens/month. (could be extended)   
 * "Expert Mentor" status on our platform  
 * Opportunity to co-author official documentation and guides
@@ -306,9 +306,9 @@ Help us improve the security and reliability of our AI/ML API by identifying and
 ### 💰Reward Structure:💰
 
 * Critical Vulnerabilities: Up to $1,000  
-* High Severity Issues: Up to $600  
-* Medium Severity Issues: Up to $300  
-* Low Severity Issues: Up to $150
+* High Severity Issues: Up to $500  
+* Medium Severity Issues: Up to $250  
+* Low Severity Issues: Up to $50
 
 Exact reward amounts will be determined based on the potential impact, complexity, and quality of the report.
 
@@ -356,5 +356,5 @@ With the addition of these new tracks, our leveling system now includes:
 Each level comes with increased rewards, more exclusive opportunities, and greater influence in shaping our AI/ML API ecosystem.
 
 Your skills and passion can help drive the future of AI technology. Join our Developer Program today and be part of a community pushing the boundaries of what's possible with AI.
-For questions or to apply, contact us at: *[AI/ML API Team](mailto:hello@aimlapi.com)*
+For Developer Program questions or to apply, contact us at: *[AI/ML API Team](mailto:developers@aimlapi.com)*
 *Together, let's build intelligent solutions for tomorrow's challenges.*
