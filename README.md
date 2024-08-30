@@ -65,7 +65,9 @@ Join the AI/ML API Community Program today and help us build a future where AI e
 
 Let's push the boundaries of what's possible with AI\!
 
-*For all Community questions, please contact: *[Communinty AI/ML API Team](mailto:community@aimlapi.com)*
+For all Community questions, please contact: *[Communinty AI/ML API Team](mailto:community@aimlapi.com)*
+
+---
 
 ## AI/ML API Speaker Program
 
