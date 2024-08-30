@@ -324,7 +324,7 @@ Exact reward amounts will be determined based on the potential impact, complexit
 
 ## **5. API Documentation Champions**
 
-Contribute to the development and improvement of our API documentation, helping fellow developers understand and effectively use our AI/ML API.
+Contribute to the development and improvement of our [API documentation](https://docs.aimlapi.com/), helping fellow developers understand and effectively use our AI/ML API.
 
 ### Responsibilities:
 
