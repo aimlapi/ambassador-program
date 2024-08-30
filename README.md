@@ -2,7 +2,7 @@
 
 ## **Empowering Innovators, Creators, and Leaders in AI**
 
-Welcome to the AI/ML API Community Program\! We offer over 200 AI Models via a single, powerful API, and we're looking for passionate individuals to join our mission of democratizing AI technology. Whether you're a developer, content creator, speaker, or community leader, there's a place for you in our vibrant ecosystem.
+Welcome to the [AI/ML API](https://aimlapi.com) Community Program\! We offer over 200 AI Models via a single, powerful API, and we're looking for passionate individuals to join our mission of democratizing AI technology. Whether you're a developer, content creator, speaker, or community leader, there's a place for you in our vibrant ecosystem.
 
 ## **🌟 Program Overview**
 
@@ -272,7 +272,7 @@ Lead or participate in hackathons, creating innovative projects that showcase th
 
 ## 3. Community Mentors
 
-Guide and support fellow developers in our Discord community, sharing your expertise and fostering a collaborative environment.
+Guide and support fellow developers in our [Discord community](https://discord.gg/hvaUsJpVJf), sharing your expertise and fostering a collaborative environment.
 
 ### Responsibilities:
 
