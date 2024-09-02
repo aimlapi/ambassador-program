@@ -2,7 +2,7 @@
 
 ## **Empowering Innovators, Creators, and Leaders in AI**
 
-Welcome to the [AI/ML API](https://aimlapi.com) Community Program\! We offer over 200 AI Models via a single, powerful API, and we're looking for passionate individuals to join our mission of democratizing AI technology. Whether you're a developer, content creator, speaker, or community leader, there's a place for you in our vibrant ecosystem.
+Welcome to the AI/ML API Community Program\! We offer over 200 AI Models via a single, powerful API, and we're looking for passionate individuals to join our mission of democratizing AI technology. Whether you're a developer, content creator, speaker, or community leader, there's a place for you in our vibrant ecosystem.
 
 ## **🌟 Program Overview**
 
@@ -65,9 +65,7 @@ Join the AI/ML API Community Program today and help us build a future where AI e
 
 Let's push the boundaries of what's possible with AI\!
 
-For all Community questions, please contact: *[Communinty AI/ML API Team](mailto:community@aimlapi.com)*
-
----
+*For any questions, contact us at: [AI/ML API Team](mailto:support@aimlapi.com)*
 
 ## AI/ML API Speaker Program
 
@@ -77,7 +75,7 @@ Are you passionate about artificial intelligence and machine learning? Do you lo
 
 We're on the hunt for charismatic speakers who can captivate audiences with their insights on AI and ML.
 
-If you're a seasoned expert, thought leader, or industry innovator with a passion for communicating complex AI concepts in an engaging and accessible way, we invite you to apply to our Speaker Program. Whether you're a researcher, practitioner, or entrepreneur with a unique perspective on AI's impact, we want to have you onboard our team. 
+If you're a seasoned expert, thought leader, or industry innovator with a passion for communicating complex AI concepts in an engaging and accessible way, we invite you to [apply to our Speaker Program](https://forms.gle/DN9KtZ1MsfGZJuf66). Whether you're a researcher, practitioner, or entrepreneur with a unique perspective on AI's impact, we want to have you onboard our team. 
 
 ## **Speaker Roles**
 
@@ -91,7 +89,7 @@ If you're a seasoned expert, thought leader, or industry innovator with a passio
 
 * Organize and lead local tech meetups  
 * Conduct hands-on workshops using our AI/ML API  
-* Foster community growth and knowledge-sharing
+* Foster community growth and knowledge sharing
 
 ### **3\. Webinar Expert**
 
@@ -115,11 +113,11 @@ If you're a seasoned expert, thought leader, or industry innovator with a passio
 * **Networking**: Connect with other speakers, industry experts, and our team members  
 * **Recognition**: Be featured on our website and receive official speaker credentials  
 * **Travel Support**: Receive assistance with travel arrangements for approved events  
-* **💰Monetary Compensation**:💰   
-  1\) Dedicated speech, conference: Up to 2500$.   
-  2\) AI/ML API meetup: Up to 1000$.   
-  3\) Dedicated webinar: Up to 400$.  
-* **Free access** to AI API up to 100M tokens/month. (could be extended)
+* **Monetary Compensation**:   
+  1\) Dedicated speech, conference: Up to 1000$.   
+  2\) AI/ML API meetup: Up to 400$.   
+  3\) Dedicated webinar: Up to 200$.  
+* **Free access** to AI API up to 40M tokens/month. (could be extended)
 
 ### Speaker Resources Include
 
@@ -131,20 +129,19 @@ If you're a seasoned expert, thought leader, or industry innovator with a passio
   
 ### How to Apply
 
-1. **Submit Your Application**: Fill out our online application form, including your areas of expertise and speaking experience  
+1. **Submit Your Application**: Fill out [our online application form,](https://forms.gle/DN9KtZ1MsfGZJuf66) including your areas of expertise and speaking experience  
 2. **Interview**: If shortlisted, you'll have a brief video call with our Speaker Program team leader   
 3. **Onboarding**: Successful applicants will receive comprehensive training on our API and speaking best practices
 
-Join us in shaping the future of AI. Apply now and let your voice inspire the next wave of AI innovation\!
-For all Speaker Program questions, please contact: *[AI/ML API Team](mailto:speakers@aimlapi.com)*
-
+Join us in shaping the future of AI.[ Apply now](https://forms.gle/DN9KtZ1MsfGZJuf66) and let your voice inspire the next wave of AI innovation\!
+For questions, please contact: *[AI/ML API Team](mailto:support@aimlapi.com)*
 *Empowering Innovators, One API at a Time*
 
 ---
 
 ## AI/ML API Content Creator Program
 
-Are you passionate about creating engaging content in the world of AI and machine learning? Join our Content Creator Program and become a key influencer in the AI community while enjoying exclusive benefits and rewards\!
+Are you passionate about creating engaging content in the world of AI and machine learning? Join our Content Creator Program and[ become a key influencer](https://forms.gle/DN9KtZ1MsfGZJuf66) in the AI community while enjoying exclusive benefits and rewards\!
 
 ## **Who We're Looking For**
 
@@ -164,14 +161,14 @@ We're seeking creative minds who produce high-quality, informative, or entertain
 
 ## Audio Content Creators
 
-1. **Podcasters**: Host or contribute to AI/ML-focused podcasts on platforms like Spotify, Apple Podcasts, etc.
+1. **Podcasters**: Host or contribute to AI/ML focused podcasts on platforms like Spotify, Apple Podcasts, etc.
    
 
 ### Content Creator Responsibilities
 
 * Regularly produce high-quality content related to AI/ML topics.  
 * Incorporate our AI/ML API into your content, showcasing its features and applications.  
-* Include a brief (30-60 seconds) promotional segment about our AI/ML API in your content.  
+* Include a brief (30-60 second) promotional segment about our AI/ML API in your content.  
 * Create at least one piece of dedicated content per quarter that focuses specifically on our AI/ML API (e.g., product review, tutorial, use case demonstration).  
 * Share your content across at least two social media platforms to maximize reach.  
 * Provide your audience with an exclusive promo code for our AI/ML API, valid for one week after content publication.
@@ -182,18 +179,18 @@ We're seeking creative minds who produce high-quality, informative, or entertain
 * **Writers**: Include code snippets or practical examples using our API in your articles.  
 * **Podcasters**: Invite our team members or API users as guests to discuss AI/ML topics.
 
-### 💰Rewards and Incentives💰
+### Rewards and Incentives
 
 #### Base Tier
 
-* 10% commission on all sales generated through your unique promo code for 6 months.  
+* 15% commission on all sales generated through your unique promo code for 6 months.  
 * Free access to our AI/ML API (up to 60M tokens/month. (could be extended) ).  
 * Official "AI/ML API Content Creator" badge for your profiles.
 
 #### Advanced Tier (Unlocked after 3 months of consistent, high-quality content)
 
 * All Base Tier benefits, plus:  
-* Increased commission to 15% for 12 months.  
+* Increased commission to 30% for 12 months.  
 * Monetary bonuses for high-performing content (based on views, engagement, and conversions).  
 * Opportunity to be featured on our official blog and social media channels.  
 * Early access to new API features and beta testing opportunities.
@@ -208,13 +205,13 @@ We're seeking creative minds who produce high-quality, informative, or entertain
 
 ### How to Apply
 
-1. **Submit Your Application**: Fill out our online form, including links to your best AI/ML related content.  
+1. **Submit Your Application**: Fill out[ our online form](https://forms.gle/DN9KtZ1MsfGZJuf66), including links to your best AI/ML related content.  
 2. **Content Review**: Our team will review your existing content for quality and relevance.  
 3. **Interview**: If shortlisted, you'll have a brief video call with our Creator Program team.  
 4. **Onboarding**: Accepted creators will receive comprehensive resources, including API documentation, brand guidelines, and best practices.
 
 Become a part of our Content Creator Program and help us democratize access to cutting-edge AI technology. Your creativity and expertise can inspire the next generation of AI innovators\!
-For any Content Creator Program questions, please contact: *[AI/ML API Team](mailto:creators@aimlapi.com)*
+For any questions, please contact: *[AI/ML API Team](mailto:support@aimlapi.com)*
 *With AI/ML API, let's build a smarter tomorrow.*
 
 ---
@@ -244,7 +241,7 @@ Create impactful open-source projects that integrate our AI/ML API and drive inn
 * Code Quality: Well-documented, tested, and following best practices  
 * API Integration: Innovative and effective use of our AI/ML API
 
-### 💰Rewards:💰
+### Rewards:
 
 * Tiered cash bounties based on project impact and quality (up to $3000)  
 * Premium API access with increased rate limits  
@@ -257,22 +254,22 @@ Lead or participate in hackathons, creating innovative projects that showcase th
 
 ### Responsibilities:
 
-* Participate in AI/ML-themed hackathons  
+* Participate in AI/ML themed hackathons  
 * Use our AI/ML API as the primary AI solution in your projects  
-* Share your experience on social media and Github repositories (2 posts per hackathon on two platforms)
+* Share your experience on social media (2 posts per hackathon on two platforms)
 
-### 💰Rewards:💰
+### Rewards:
 
 * Up to $50 in tokens for every hackathon participation  
-* Cash prizes for podium finishes up to:  
-  * 1st Place: $600  
-  * 2nd Place: $400  
-  * 3rd Place: $300  
+* Cash prizes for podium finishes:  
+  * 1st Place: $500  
+  * 2nd Place: $300  
+  * 3rd Place: $150  
 * Exclusive "Hackathon Hero" badge on our platform and Community Showcases
 
 ## 3. Community Mentors
 
-Guide and support fellow developers in our [Discord community](https://discord.gg/hvaUsJpVJf), sharing your expertise and fostering a collaborative environment.
+Guide and support fellow developers in our Discord community, sharing your expertise and fostering a collaborative environment.
 
 ### Responsibilities:
 
@@ -281,16 +278,16 @@ Guide and support fellow developers in our [Discord community](https://discord.g
 * Host monthly Q\&A sessions or workshops  
 * Assist in moderating discussions and maintaining a positive community atmosphere
 
-### 💰Rewards:💰
+### Rewards:
 
-* Monthly stipend of $600  
-* Free access to AI API up to 100M tokens/month. (could be extended)   
+* Monthly stipend of $400  
+* Free access to AI API up to 40M tokens/month. (could be extended)   
 * "Expert Mentor" status on our platform  
 * Opportunity to co-author official documentation and guides
 
 ### How to Join
 
-1. **Apply**: Fill out our online application form, detailing your experience and which track(s) interests you.  
+1. **Apply**: Fill out [our online application form](https://forms.gle/DN9KtZ1MsfGZJuf66), detailing your experience and which track(s) you're interested in.  
 2. **Review**: Our team will assess your application and may request additional information or examples of your work.  
 3. **Onboarding**: If accepted, you'll receive a comprehensive onboarding package, including API documentation, best practices, and program guidelines.  
 4. **Engage**: Start contributing, creating, or mentoring\! Regular check-ins with our developer relations team will help track your progress and provide support.
@@ -306,25 +303,25 @@ Help us improve the security and reliability of our AI/ML API by identifying and
 * Provide proof-of-concept demonstrations for identified issues  
 * Maintain confidentiality about found vulnerabilities until they are resolved
 
-### 💰Reward Structure:💰
+### Reward Structure:
 
 * Critical Vulnerabilities: Up to $1,000  
-* High Severity Issues: Up to $500  
-* Medium Severity Issues: Up to $250  
-* Low Severity Issues: Up to $50
+* High Severity Issues: Up to $600  
+* Medium Severity Issues: Up to $300  
+* Low Severity Issues: Up to $150
 
 Exact reward amounts will be determined based on the potential impact, complexity, and quality of the report.
 
 ### How to Participate:
 
-1. Register for our Bug Bounty program  
+1.[ Register](https://forms.gle/DN9KtZ1MsfGZJuf66) for our Bug Bounty program  
 2. Review our security policy and scope document  
 3. Start hunting and submit your findings through our secure portal  
 4. Engage with our security team for any necessary follow-ups
 
 ## **5. API Documentation Champions**
 
-Contribute to the development and improvement of our [API documentation](https://docs.aimlapi.com/), helping fellow developers understand and effectively use our AI/ML API.
+Contribute to the development and improvement of our API documentation, helping fellow developers understand and effectively use our AI/ML API.
 
 ### Responsibilities:
 
@@ -333,16 +330,16 @@ Contribute to the development and improvement of our [API documentation](https:/
 * Develop code samples and tutorials for common API use cases  
 * Collaborate with our technical writing team to maintain consistency
 
-### 💰Rewards:💰
+### Rewards:
 
 * $50-$250 per accepted contribution, based on complexity and impact  
-* Credit as a contributor to our official documentation  
+* Credit as a contributor in our official documentation  
 * "Documentation Champion" badge on our platform  
 * Opportunity to shape the learning experience for our API users
 
 ### How to Contribute:
 
-1. Join our Documentation Contributors program  
+1.[ Join our Documentation Contributors program ](https://forms.gle/DN9KtZ1MsfGZJuf66) 
 2. Pick from our list of documentation tasks or propose your own  
 3. Submit your contributions via pull requests to our documentation repository  
 4. Collaborate with our team to refine and finalize your contributions
@@ -358,7 +355,6 @@ With the addition of these new tracks, our leveling system now includes:
 
 Each level comes with increased rewards, more exclusive opportunities, and greater influence in shaping our AI/ML API ecosystem.
 
-Your skills and passion can help drive the future of AI technology. Join our Developer Program today and be part of a community pushing the boundaries of what's possible with AI.
-For Developer Program questions or to apply, contact us at: *[AI/ML API Team](mailto:developers@aimlapi.com)*
-
+Your skills and passion can help drive the future of AI technology. Join our Developer Program today and be part of a community that's pushing the boundaries of what's possible with AI.
+For questions, contact us at: *[AI/ML API Team](mailto:support@aimlapi.com)*
 *Together, let's build intelligent solutions for tomorrow's challenges.*
