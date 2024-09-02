@@ -360,4 +360,5 @@ Each level comes with increased rewards, more exclusive opportunities, and great
 
 Your skills and passion can help drive the future of AI technology. Join our Developer Program today and be part of a community pushing the boundaries of what's possible with AI.
 For Developer Program questions or to apply, contact us at: *[AI/ML API Team](mailto:developers@aimlapi.com)*
+
 *Together, let's build intelligent solutions for tomorrow's challenges.*
