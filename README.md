@@ -75,7 +75,7 @@ Are you passionate about artificial intelligence and machine learning? Do you lo
 
 We're on the hunt for charismatic speakers who can captivate audiences with their insights on AI and ML.
 
-If you're a seasoned expert, thought leader, or industry innovator with a passion for communicating complex AI concepts in an engaging and accessible way, we invite you to [apply to our Speaker Program](https://forms.gle/DN9KtZ1MsfGZJuf66). Whether you're a researcher, practitioner, or entrepreneur with a unique perspective on AI's impact, we want to have you onboard our team. 
+If you're a seasoned expert, thought leader, or industry innovator with a passion for communicating complex AI concepts in an engaging and accessible way, we invite you to [apply to our Speaker Program](https://tally.so/r/nGLN7Q). Whether you're a researcher, practitioner, or entrepreneur with a unique perspective on AI's impact, we want to have you onboard our team. 
 
 ## **Speaker Roles**
 
@@ -129,11 +129,11 @@ If you're a seasoned expert, thought leader, or industry innovator with a passio
   
 ### How to Apply
 
-1. **Submit Your Application**: Fill out [our online application form,](https://forms.gle/DN9KtZ1MsfGZJuf66) including your areas of expertise and speaking experience  
+1. **Submit Your Application**: Fill out [our online application form,](https://tally.so/r/nGLN7Q) including your areas of expertise and speaking experience  
 2. **Interview**: If shortlisted, you'll have a brief video call with our Speaker Program team leader   
 3. **Onboarding**: Successful applicants will receive comprehensive training on our API and speaking best practices
 
-Join us in shaping the future of AI.[ Apply now](https://forms.gle/DN9KtZ1MsfGZJuf66) and let your voice inspire the next wave of AI innovation\!
+Join us in shaping the future of AI.[ Apply now](https://tally.so/r/nGLN7Q) and let your voice inspire the next wave of AI innovation\!
 For questions, please contact: *[AI/ML API Team](mailto:support@aimlapi.com)*
 *Empowering Innovators, One API at a Time*
 
@@ -141,7 +141,7 @@ For questions, please contact: *[AI/ML API Team](mailto:support@aimlapi.com)*
 
 ## AI/ML API Content Creator Program
 
-Are you passionate about creating engaging content in the world of AI and machine learning? Join our Content Creator Program and[ become a key influencer](https://forms.gle/DN9KtZ1MsfGZJuf66) in the AI community while enjoying exclusive benefits and rewards\!
+Are you passionate about creating engaging content in the world of AI and machine learning? Join our Content Creator Program and[ become a key influencer](https://tally.so/r/nGLN7Q) in the AI community while enjoying exclusive benefits and rewards\!
 
 ## **Who We're Looking For**
 
@@ -205,7 +205,7 @@ We're seeking creative minds who produce high-quality, informative, or entertain
 
 ### How to Apply
 
-1. **Submit Your Application**: Fill out[ our online form](https://forms.gle/DN9KtZ1MsfGZJuf66), including links to your best AI/ML related content.  
+1. **Submit Your Application**: Fill out[ our online form](https://tally.so/r/nGLN7Q), including links to your best AI/ML related content.  
 2. **Content Review**: Our team will review your existing content for quality and relevance.  
 3. **Interview**: If shortlisted, you'll have a brief video call with our Creator Program team.  
 4. **Onboarding**: Accepted creators will receive comprehensive resources, including API documentation, brand guidelines, and best practices.
@@ -287,7 +287,7 @@ Guide and support fellow developers in our Discord community, sharing your exper
 
 ### How to Join
 
-1. **Apply**: Fill out [our online application form](https://forms.gle/DN9KtZ1MsfGZJuf66), detailing your experience and which track(s) you're interested in.  
+1. **Apply**: Fill out [our online application form](https://tally.so/r/nGLN7Q), detailing your experience and which track(s) you're interested in.  
 2. **Review**: Our team will assess your application and may request additional information or examples of your work.  
 3. **Onboarding**: If accepted, you'll receive a comprehensive onboarding package, including API documentation, best practices, and program guidelines.  
 4. **Engage**: Start contributing, creating, or mentoring\! Regular check-ins with our developer relations team will help track your progress and provide support.
@@ -314,7 +314,7 @@ Exact reward amounts will be determined based on the potential impact, complexit
 
 ### How to Participate:
 
-1.[ Register](https://forms.gle/DN9KtZ1MsfGZJuf66) for our Bug Bounty program  
+1. [Register for our Bug Bounty program](https://tally.so/r/nGLN7Q)
 2. Review our security policy and scope document  
 3. Start hunting and submit your findings through our secure portal  
 4. Engage with our security team for any necessary follow-ups
@@ -339,7 +339,7 @@ Contribute to the development and improvement of our API documentation, helping 
 
 ### How to Contribute:
 
-1.[ Join our Documentation Contributors program ](https://forms.gle/DN9KtZ1MsfGZJuf66) 
+1.[ Join our Documentation Contributors program ](https://tally.so/r/nGLN7Q) 
 2. Pick from our list of documentation tasks or propose your own  
 3. Submit your contributions via pull requests to our documentation repository  
 4. Collaborate with our team to refine and finalize your contributions
