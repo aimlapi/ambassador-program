@@ -258,6 +258,10 @@ Lead or participate in hackathons, creating innovative projects that showcase th
 * Use our AI/ML API as the primary AI solution in your projects  
 * Share your experience on social media (2 posts per hackathon on two platforms)
 
+### Requirements:
+
+* You need to have had a podium placement (1st, 2nd, 3rd) in at least one hackathon in the past.
+
 ### Rewards:
 
 * Up to $50 in tokens for every hackathon participation  
