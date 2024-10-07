@@ -261,6 +261,8 @@ Lead or participate in hackathons, creating innovative projects that showcase th
 ### Requirements:
 
 * You need to have had a podium placement (1st, 2nd, 3rd) in at least one hackathon in the past.
+* Provide official confirmation of placement, or some alternative.
+* Provide some media materials when possible, like photos/vids of you during the hack.
 
 ### Rewards:
 
