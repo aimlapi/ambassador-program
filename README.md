@@ -272,6 +272,8 @@ Lead or participate in hackathons, creating innovative projects that showcase th
   * 2nd Place: $300  
   * 3rd Place: $150  
 * Exclusive "Hackathon Hero" badge on our platform and Community Showcases
+  
+This category applies to first-time program participants and is paid out according to internal criteria, evaluating the significance of the hack and the project itself. 
 
 ## 3. Community Mentors
 
