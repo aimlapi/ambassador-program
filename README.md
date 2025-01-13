@@ -266,11 +266,8 @@ Lead or participate in hackathons, creating innovative projects that showcase th
 
 ### Rewards:
 
-* Up to $50 in tokens for every hackathon participation  
-* Cash prizes for podium finishes up to:  
-  * 1st Place: $500  
-  * 2nd Place: $300  
-  * 3rd Place: $150  
+* Up to $20 in tokens for every hackathon participation  
+* available per (tickets)[https://discord.gg/WtjfWQ6vR3] in our Discord
 * Exclusive "Hackathon Hero" badge on our platform and Community Showcases
   
 This category applies to first-time program participants and is paid out according to internal criteria, evaluating the significance of the hack and the project itself. 
