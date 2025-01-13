@@ -114,7 +114,7 @@ If you're a seasoned expert, thought leader, or industry innovator with a passio
 * **Recognition**: Be featured on our website and receive official speaker credentials  
 * **Travel Support**: Receive assistance with travel arrangements for approved events  
 * **Monetary Compensation**:   
-  1\) Dedicated speech, conference: Up to 1000$.   
+  1\) Dedicated speech, conference: Up to 2000$.   
   2\) AI/ML API meetup: Up to 400$.   
   3\) Dedicated webinar: Up to 200$.  
 * **Free access** to AI API up to 40M tokens/month. (could be extended)
@@ -243,7 +243,7 @@ Create impactful open-source projects that integrate our AI/ML API and drive inn
 
 ### Rewards:
 
-* Tiered cash bounties based on project impact and quality (up to $3000)  
+* Tiered cash bounties based on project impact and quality (up to $1000)  
 * Premium API access with increased rate limits  
 * Featured spotlight on our website and social media  
 * Invitation to exclusive developer events and conferences
