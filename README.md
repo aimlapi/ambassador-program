@@ -69,11 +69,9 @@ Let's push the boundaries of what's possible with AI\!
 
 ## AI/ML API Speaker Program
 
-Are you passionate about artificial intelligence and machine learning? Do you love sharing knowledge and inspiring others? Join our AI/ML API Speaker Program and become a voice for the next generation of AI technology\!
+Are you passionate about artificial intelligence and machine learning? Do you love sharing knowledge and inspiring others? Join our AI/ML API Speaker Program and become a voice for the next generation of AI technology!
 
 ## **Who We're Looking For**
-
-We're on the hunt for charismatic speakers who can captivate audiences with their insights on AI and ML.
 
 If you're a seasoned expert, thought leader, or industry innovator with a passion for communicating complex AI concepts in an engaging and accessible way, we invite you to [apply to our Speaker Program](https://tally.so/r/nGLN7Q). Whether you're a researcher, practitioner, or entrepreneur with a unique perspective on AI's impact, we want to have you onboard our team. 
 
@@ -308,14 +306,14 @@ Help us improve the security and reliability of our AI/ML API by identifying and
 * Provide proof-of-concept demonstrations for identified issues  
 * Maintain confidentiality about found vulnerabilities until they are resolved
 
-### Reward Structure:
+### Reward Structure in tokens:
 
-* Critical Vulnerabilities: Up to $1,000  
-* High Severity Issues: Up to $600  
-* Medium Severity Issues: Up to $300  
-* Low Severity Issues: Up to $150
+* Critical Vulnerabilities: Up to $200  
+* High Severity Issues: Up to $100  
+* Medium Severity Issues: Up to $50  
+* Low Severity Issues: Up to $20
 
-Exact reward amounts will be determined based on the potential impact, complexity, and quality of the report.
+Exact token reward amounts will be determined based on the potential impact, complexity, and quality of the report.
 
 ### How to Participate:
 
